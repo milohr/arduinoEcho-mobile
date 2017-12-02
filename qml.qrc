@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Arduino.qml</file>
+        <file>socket.js</file>
+        <file>Icons.js</file>
+        <file>materialdesignicons-webfont.ttf</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Icon.qml</file>
+        <file>logo_salmon.png</file>
+        <file>Socket.qml</file>
+        <file>Values.qml</file>
+    </qresource>
+</RCC>
